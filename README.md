@@ -1,7 +1,9 @@
 # Java SpringBoot MicroService
 
 **Service Registry**
+
 Main:
+
 package com.project.serviceRegistry;
 
 import org.springframework.boot.SpringApplication;
