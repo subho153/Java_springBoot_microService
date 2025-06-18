@@ -2,7 +2,7 @@
 
 **Service Registry**
 
-Main:
+**Main:**
 
 package com.project.serviceRegistry;
 
